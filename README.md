@@ -3,7 +3,7 @@
 <img src="iu.png"  width="290px" height="200px">
 
 ## About me
-- I am german hobby Backend developer
+- I am german Backend developer
 - My main programming language is Go
 
 
