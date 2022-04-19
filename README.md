@@ -7,3 +7,5 @@
 - My main programming language is Go
 
 Home Page : http://www.marwinzoepfel.com
+
+If you have any questions please write a mail to <a href="mailto: business@marwinzoepfel.com">business@marwinzoepfel.com</a>
