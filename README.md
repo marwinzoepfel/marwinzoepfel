@@ -8,4 +8,4 @@
 
 Home Page : cooming soon
 
-If you have any questions please write a mail to <a href="mailto: business@marwinzoepfel.com">business@marwinzoepfel.com</a>
+If you have any questions please write a mail to <a href="mailto: marwin@zoepfel.de">marwin@zoepfel.de</a>
