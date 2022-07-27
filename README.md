@@ -6,6 +6,8 @@
 - I am german Backend developer
 - My main programming language is Go
 
+Right now i am getting started with electric engineering.
+
 Home Page : cooming soon
 
 If you have any questions please write a mail to <a href="mailto: marwin@zoepfel.de">marwin@zoepfel.de</a>
