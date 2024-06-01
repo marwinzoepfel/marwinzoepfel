@@ -10,4 +10,4 @@ Right now i am getting started with electric engineering.
 
 Home Page : cooming soon
 
-If you have any questions please write a mail to <a href="mailto: marwin@zoepfel.de">marwin@zoepfel.de</a>
+If you have any questions, please write an mail to <a href="mailto: marwin@zoepfel.de">marwin@zoepfel.de</a>
