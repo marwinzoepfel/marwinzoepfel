@@ -24,7 +24,13 @@ Hey, I'm Marwin, a passionate Backend Developer from Germany. My journey in the 
 - Developing innovative solutions that make a real-world impact.
 - Expanding my knowledge in AI and machine learning.
 
+### 📚 Personal Development
+- **Avid Reader**: Diving deep into books on personal development like "Atomic Habits" by James Clear and "The Subtle Art of Not Giving a F*ck" by Mark Manson. These books have inspired me to refine my habits and approach life with a clear, focused mindset.
+- **Holistic Growth**: Striving to be a well-rounded individual, not just a coder. I aim to broaden my horizons, embracing continuous learning and self-improvement.
+- **World and Education Advocate**: Committed to becoming more open-minded and well-informed about global issues and educational advancements. I believe in the power of knowledge to transform lives and societies.
+
 ### 💬 Let's Connect!
 If you have any questions, don't hesitate to ask.
 
 - 📧 Email: [marwin@zoepfel.de](mailto:marwin@zoepfel.de)
+
