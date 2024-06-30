@@ -11,7 +11,7 @@ Hey, I'm Marwin, a passionate Backend Developer from Germany. My journey in the 
 
 ### 🔧 Tech Stack Web
 - **Languages**: Go, Python, JavaScript
-- **Frameworks**: Gin
+- **Frameworks**: Go Chi
 - **Databases**: PostgreSQL, MySQL
 - **Tools**: Docker, Git
 
