@@ -7,7 +7,8 @@ Hey, I'm Marwin, a passionate Backend Developer from Germany. My journey in the 
 
 - 💻 **Backend Alchemist**: Crafting efficient and scalable backend solutions with the power of **Go**.
 - 🌍 **Tech Explorer**: Constantly learning and experimenting with new technologies.
-- ⚡ **Electric Engineering Enthusiast**: Currently diving into the electrifying world of circuits and hardware.
+- ⚡ **Electric Engineering Enthusiast:** Currently diving into the electrifying world of circuits and hardware, with the ambitious goal of designing my own CPU from scratch.
+- 🤖 **CPU Architect (In Progress):** Embarking on a challenging project to design and build my own Central Processing Unit (CPU) from the ground up.
 
 ### 🔧 Tech Stack Web
 - **Languages**: Go, Python, JavaScript
