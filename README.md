@@ -1,37 +1,41 @@
 ### Hi there 👋
-
 <img src="iu.png" width="290px" height="200px">
 
 ## About Me
-Hey, I'm Marwin, a passionate Backend Developer from Germany. My journey in the tech world is fueled by curiosity and a drive to innovate. Here's a glimpse into my world:
 
-- 💻 **Backend Alchemist**: Crafting efficient and scalable backend solutions with the power of **Go**.
-- 🌍 **Tech Explorer**: Constantly learning and experimenting with new technologies.
-- ⚡ **Electric Engineering Enthusiast:** Currently diving into the electrifying world of circuits and hardware, with the ambitious goal of designing my own CPU from scratch.
-- 🤖 **CPU Architect (In Progress):** Embarking on a challenging project to design and build my own Central Processing Unit (CPU) from the ground up.
+Hey, I’m **Marwin**, a **Electrical Engineering and Information Technology** student from Germany.  
 
-### 🔧 Tech Stack Web
+My passion has always been understanding computers from the ground up. I started as a backend developer building scalable systems, then dove into digital logic by designing simple 8-bit chips inspired by the old Intel 8080. Today I mostly write **bare-metal** programs for ARM chips (ESP series and Raspberry Pi) because I want to remove every layer of abstraction and talk directly to the hardware.
+
+- ⚡ **Bare-Metal Engineer**: Writing low-level code in C and AArch64 Assembly for real hardware.
+- 💻 **Backend Alchemist** (past & still in the toolbox): Crafting efficient backend solutions with Go.
+- 🧠 **CPU & OS Architect (in progress)**: After my first 8-bit designs, I’m now building **OhneBS** — my own 64-bit learning operating system for the Raspberry Pi 400 from scratch.
+
+### 🔧 Tech Stack
+
+**Low-Level / Embedded / Bare-Metal**
+- **Languages**: C, AArch64 Assembly
+- **Platforms**: Raspberry Pi 400 (BCM2711), ESP microcontrollers
+- **Peripherals & Concepts**: GPIO, UART, HDMI framebuffer, PS/2 protocol, MMIO, interrupts
+- **Tools**: aarch64-none-elf toolchain, Makefile builds
+
+**Backend / Web (previous focus)**
 - **Languages**: Go, Python, JavaScript
 - **Frameworks**: Go Chi
 - **Databases**: PostgreSQL, MySQL
 - **Tools**: Docker, Git
 
-### 🌱 Learning & Growth
-- 📚 Currently exploring Electric Engineering to bridge the gap between software and hardware.
-- 🧠 Always on the lookout for the latest trends in tech to stay ahead of the curve.
+### 🚀 Main Project: OhneBS
 
-### 🚀 Future Goals
-- Launching my personal home page (coming soon!) to share insights, tutorials, and projects.
-- Developing innovative solutions that make a real-world impact.
-- Expanding my knowledge in AI and machine learning.
+**OhneBS: A Bare-Metal Learning Operating System**
 
-### 📚 Personal Development
-- **Avid Reader**: Diving deep into books on personal development like "Atomic Habits" by James Clear and "The Subtle Art of Not Giving a F*ck" by Mark Manson. These books have inspired me to refine my habits and approach life with a clear, focused mindset.
-- **Holistic Growth**: Striving to be a well-rounded individual, not just a coder. I aim to broaden my horizons, embracing continuous learning and self-improvement.
-- **World and Education Advocate**: Committed to becoming more open-minded and well-informed about global issues and educational advancements. I believe in the power of knowledge to transform lives and societies.
+A small, 64-bit operating system for the Raspberry Pi 400, written entirely from scratch in C and AArch64 Assembly.  
 
-### 💬 Let's Connect!
-If you have any questions, don't hesitate to ask.
+This project is my hands-on journey to truly understand operating system architecture and low-level hardware programming by peeling back all layers of abstraction and interacting directly with the hardware.
 
-- 📧 Email: [marwin@zoepfel.de](mailto:marwin@zoepfel.de)
+**Project Goals**
+- Direct hardware control of Raspberry Pi peripherals without any host OS.
+- Deep practical understanding of the ARMv8-A (AArch64) architecture.
+- Implementing core OS concepts like interrupts, memory management and process scheduling from the ground up.
 
+Currently in active development — first alpha coming soon.
